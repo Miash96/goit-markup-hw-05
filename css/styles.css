@@ -499,11 +499,13 @@ border-radius: 50%;
   line-height: 1.5;
   letter-spacing: 0.02em; 
   color: #fff;
+  margin-left: 80px;
 }
 
 .order-form {
 display: flex; 
 gap: 24px;
+
 }
 
 .order-form-input {
@@ -518,6 +520,8 @@ gap: 24px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   color: #ffffff;
+  margin-left: 80px;
+
 }
 
 .order-form-button {
