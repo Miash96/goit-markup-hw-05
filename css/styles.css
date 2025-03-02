@@ -493,13 +493,17 @@ border-radius: 50%;
 .social-icons {
   fill: #f4f4fd;
 }
+
+.container-subcribe {
+  margin-left: auto;
+}
+
 .footer-subcribe {
   margin-bottom: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em; 
   color: #fff;
-  margin-left: 80px;
 }
 
 .order-form {
@@ -520,8 +524,6 @@ gap: 24px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   color: #ffffff;
-  margin-left: 80px;
-
 }
 
 .order-form-button {
